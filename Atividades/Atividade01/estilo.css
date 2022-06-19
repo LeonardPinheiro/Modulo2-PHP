@@ -1,0 +1,27 @@
+#div{
+    background-color: #20B2AA;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+}
+.container{
+    min-width: 10em;
+    display: table-cell;
+    vertical-align: middle;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+font{
+    font-size: 110%;
+    color:white ;
+}
+h2{
+    padding-top: 2%;
+    color: white;
+}
